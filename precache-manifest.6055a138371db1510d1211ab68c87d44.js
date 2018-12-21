@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/personal-site/static/media/tokyo_city_sunset-wallpaper-2560x1600.4a6fae33.jpg"
   },
   {
-    "revision": "5b39f861b75165a55ff5d7d80c94836b",
+    "revision": "4266fca5d21dbeebe09ff302b44c5f4d",
     "url": "/personal-site/index.html"
   }
 ];
