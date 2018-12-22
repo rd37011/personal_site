@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
     "revision": "5ae23ad29b67289a1375d2043e289c52",
-    "url": "/static/media/fontawesome-webfont-.5ae23ad2.eot"
+    "url": "/static/media/fontawesome-webfont-v=3.2.1.5ae23ad2.eot"
   },
   {
     "revision": "0f307c0c1435ea284e34",
@@ -17,7 +17,7 @@ self.__precacheManifest = [
   },
   {
     "revision": "5ae23ad29b67289a1375d2043e289c52",
-    "url": "/static/media/fontawesome-webfont-v=3.2.1.5ae23ad2.eot"
+    "url": "/static/media/fontawesome-webfont-.5ae23ad2.eot"
   },
   {
     "revision": "0f307c0c1435ea284e34",
